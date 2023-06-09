@@ -4,4 +4,4 @@ Repository for the Landing Page of the VoteChain application, this web site is m
 
 ## Authors
 
-- Jefferson Anthony Ortega Martel[@JeffersonOrtega2018](https://github.com/JeffersonOrtega2018)
+- Jefferson Ortega [@JeffersonOrtega2018](https://github.com/JeffersonOrtega2018)
