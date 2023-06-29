@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero recibir una confirmación después de emitir mi voto para que pueda estar seguro de que se ha registrado correctamente. (US005)

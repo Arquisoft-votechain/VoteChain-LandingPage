@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero recibir un recordatorio para votar en la aplicación de votación para asegurarme de no olvidar la fecha límite de votación (US007)

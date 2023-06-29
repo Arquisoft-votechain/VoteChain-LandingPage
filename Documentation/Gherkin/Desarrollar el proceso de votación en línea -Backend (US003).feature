@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero poder votar en línea en la aplicación de votación para que sea más fácil y conveniente para mí. (US003)

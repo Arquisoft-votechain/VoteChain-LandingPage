@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero que la aplicación de votación sea fácil de usar para que pueda votar sin problemas. (US009)

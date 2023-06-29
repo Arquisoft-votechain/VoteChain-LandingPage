@@ -1,0 +1,1 @@
+Como administrador, quiero poder exportar los resultados de las elecciones en un formato legible para poder compartirlos con otras personas. (US015)

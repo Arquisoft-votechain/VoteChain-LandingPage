@@ -1,0 +1,1 @@
+Como administrador, quiero poder agregar y eliminar estudiantes elegibles para votar para mantener la integridad del proceso electoral.s (US013)

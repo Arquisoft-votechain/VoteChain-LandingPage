@@ -1,0 +1,1 @@
+Como administrador, quiero registrar,editar,eliminar un partido estudiantil para poder iniciar el proceso de votacion. (US018)

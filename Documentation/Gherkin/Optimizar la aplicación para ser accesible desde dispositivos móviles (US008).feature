@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero poder acceder a la aplicación de votación desde mi teléfono móvil para que pueda votar en cualquier momento y lugar conveniente (US008)

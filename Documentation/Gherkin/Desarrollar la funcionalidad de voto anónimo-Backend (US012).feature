@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero poder votar de manera anónima para que nadie más sepa por quién voté. (US012)

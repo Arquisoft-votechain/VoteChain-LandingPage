@@ -1,0 +1,1 @@
+Como administrador, quiero poder ver estadísticas en tiempo real sobre el progreso de la votación para asegurarme de que todo está funcionando correctamente. (US014)

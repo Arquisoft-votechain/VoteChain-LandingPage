@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero poder ver la información de los candidatos en la aplicación de votación para poder tomar una decisión informada al emitir mi voto. (US002)

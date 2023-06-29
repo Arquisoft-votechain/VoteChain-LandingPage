@@ -1,0 +1,1 @@
+Como administrador, quiero poder ver un registro completo de todos los votos emitidos para poder realizar una auditoría de las elecciones. (US017)

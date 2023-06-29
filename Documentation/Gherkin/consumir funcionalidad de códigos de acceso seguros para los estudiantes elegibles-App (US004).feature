@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero recibir un código de acceso seguro para la aplicación de votación para garantizar que mi voto sea registrado correctamente. (US004)

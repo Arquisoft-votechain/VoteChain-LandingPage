@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero ver los resultados de las elecciones escolares después de que se cierre la votación para saber quién ganó.(US011)

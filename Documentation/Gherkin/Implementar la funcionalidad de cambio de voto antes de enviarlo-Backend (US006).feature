@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero poder cambiar mi voto si cambio de opinión antes de enviar mi voto (US006)

@@ -1,0 +1,1 @@
+Como estudiante elegible, quiero que la aplicación de votación sea segura y confiable para que pueda confiar en que los resultados de las elecciones escolares sean precisos. (US010)
